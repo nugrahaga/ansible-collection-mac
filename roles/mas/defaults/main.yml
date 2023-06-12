@@ -1,2 +1,12 @@
 ---
-# defaults file for mas
+mas_email: ""
+mas_password: ""
+mas_uninstalled_apps: []
+mas_installed_app_ids: []  # Deprecated
+mas_installed_apps:
+  - {id: 425264550, name: "Blackmagic Disk Speed Test (3.4.2)"}
+  - {id: 411643860, name: "DaisyDisk (4.25)"}
+  # - {id: 498486288, name: "Quick Resizer (1.9)"}
+  - {id: 497799835, name: "Xcode (14.3.1)"}
+mas_upgrade_all_apps: false
+mas_signin_dialog: false
