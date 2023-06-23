@@ -8,5 +8,9 @@ mas_installed_apps:
   - {id: 411643860, name: "DaisyDisk (4.25)"}
   # - {id: 498486288, name: "Quick Resizer (1.9)"}
   - {id: 497799835, name: "Xcode (14.3.1)"}
+  - {id: 918858936, name: "Airmail - Lightning Fast Email"}
+  - {id: 937984704, name: "Amphetamine"}
+  - {id: 967805235, name: "Paste - Clipboard Manager"}
+  - {id: 507135296, name: "Iconkit"}
 mas_upgrade_all_apps: false
 mas_signin_dialog: false
